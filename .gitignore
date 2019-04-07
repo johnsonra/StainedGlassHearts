@@ -4,3 +4,5 @@ _site/
 .jekyll-metadata
 .Rproj.user
 *.Rproj
+.DS_Store
+.Rhistory
