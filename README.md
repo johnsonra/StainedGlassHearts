@@ -4,7 +4,7 @@ This site was inspired by the life of Amelia Earhart. “[The Flight of Freedom]
 
 > “[Chords of Courage](https://chordsofcourage.org) uses songwriting to shine a spotlight on the courageous among us, telling their compelling stories in an effort to transform the conversation from the demoralizing and cynical to the hopeful and inspirational one song at a time. These incredible stories inspire young and old alike to STEP UP! and make a difference in the world around us.”
 
-Please print and share a message of encouragement with friends and loved ones.
+Please [print and share a message of encouragement](Cards) with friends and loved ones.
 
 > `Cause there is freedom in our bones
 > 
